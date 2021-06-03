@@ -90,7 +90,7 @@ params:
         icon_position: center
         new_window: true
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/rarehash'
         style: link
         has_icon: true
         icon: github
