@@ -82,18 +82,18 @@ params:
         style: link
     has_social: true
     social_links:
-      - label: YouTube
-        url: 'https://www.youtube.com/'
+      - label: Facebook
+        url: 'https://facebook.com/'
         style: link
         has_icon: true
-        icon: youtube
+        icon: facebook
         icon_position: center
         new_window: true
-      - label: Vimeo
-        url: 'https://vimeo.com/'
+      - label: Instagram
+        url: 'https://instagram.com/rarehashorg'
         style: link
         has_icon: true
-        icon: vimeo
+        icon: instagram
         icon_position: center
         new_window: true
       - label: Twitter
