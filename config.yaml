@@ -117,9 +117,9 @@ params:
         icon: linkedin
         icon_position: center
         new_window: true
-    content: >-
-      Rarehash. All rights reserved.
+    content: Rarehash. All rights reserved.
   domain: 'https://website-template-93ff3.netlify.app'
+  favicon: images/favicon.png
 taxonomies:
   stub: stub
 disableKinds:
