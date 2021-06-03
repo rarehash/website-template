@@ -15,8 +15,7 @@
 					<div class="navbar__inner">
 						<button aria-label="Close" class="btn btn--icon btn--clear navbar__close-btn js-nav-toggle">
 							{{ $include_dict := dict "icon" "close" }}
-							{{ partial "icon.html" $include_dict }}
-							<span class="sr-only">Close</span>
+							&nbsp;&nbsp;close
 						</button>
 						<div class="navbar__menu flex-md">
 							{{ if and $.Site.Params.header.has_primary_nav $.Site.Params.header.primary_nav_links }}
