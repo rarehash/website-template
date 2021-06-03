@@ -327,7 +327,7 @@ sections:
     background_color: secondary
 seo:
   title: RAREHASH
-  description: The preview of the DIY theme
+  description: Busca e intercambia archivos descentralizados peer-to-peer.
   extra:
     - name: 'og:type'
       value: website
