@@ -339,7 +339,7 @@ seo:
       value: Busca e intercambia archivos descentralizados peer-to-peer.
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /_static/app-assets/cover.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
