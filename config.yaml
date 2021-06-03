@@ -97,7 +97,7 @@ params:
         icon_position: center
         new_window: true
       - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://xn.linkedin.com/company/rarehash'
         style: link
         has_icon: true
         icon: linkedin
