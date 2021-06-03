@@ -349,7 +349,7 @@ seo:
     - name: 'twitter:description'
       value: Busca e intercambia archivos descentralizados peer-to-peer.
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/cover.png
       relativeUrl: true
 layout: advanced
 ---
