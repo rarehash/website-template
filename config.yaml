@@ -3,7 +3,7 @@ baseURL: /
 params:
   layout_type: full-width
   style: classic
-  palette: green
+  palette: gray
   mode: light
   base_font: serif
   header:
@@ -36,9 +36,13 @@ params:
         url: /pricing
         style: primary
     has_anncmnt: true
-    anncmnt_content: |
+    anncmnt_content: >
       We use cookies to ensure that you get the best experience.<br>
-      <p><a href="/"><span style="font-size: 12px;">Learn More<svg class="icon" viewBox="0 0 13 13" fill="#fff" width="100%"><path d="M11.114 5.245l-.132.297a2 2 0 01-.414.602l-6.455 6.455-.707-.707 6.455-6.455a2 2 0 01.602-.414l.297-.132-.7.076H5.881v-1h6.157v6.157h-1V5.98l.076-.736z"></path></svg></span></a></p>
+
+      <p><a href="/"><span style="font-size: 12px;">Learn More<svg class="icon"
+      viewBox="0 0 13 13" fill="#fff" width="100%"><path d="M11.114
+      5.245l-.132.297a2 2 0 01-.414.602l-6.455 6.455-.707-.707 6.455-6.455a2 2 0
+      01.602-.414l.297-.132-.7.076H5.881v-1h6.157v6.157h-1V5.98l.076-.736z"></path></svg></span></a></p>
     anncmnt_align: left
     anncmnt_is_home_only: true
     anncmnt_has_close: true
