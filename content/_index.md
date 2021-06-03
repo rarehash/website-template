@@ -333,7 +333,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: RAREHASH
+      value: Rarehash
       keyName: property
     - name: 'og:description'
       value: Busca e intercambia archivos descentralizados peer-to-peer.
