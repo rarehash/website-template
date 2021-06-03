@@ -345,7 +345,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: RAREHASH
+      value: Rarehash
     - name: 'twitter:description'
       value: Busca e intercambia archivos descentralizados peer-to-peer.
     - name: 'twitter:image'
