@@ -10,8 +10,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(5em);
+  backdrop-filter: blur(5em);
   border-radius: 5px;
   box-shadow: 0 0 5em 0 rgba(0, 0, 0, 0.2);
   z-index: 12;
