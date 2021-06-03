@@ -326,7 +326,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: RAREHASH
+  title: Rarehash
   description: Busca e intercambia archivos descentralizados peer-to-peer.
   extra:
     - name: 'og:type'
