@@ -13,7 +13,7 @@
 
 <footer class="site-footer">
 	{{ if or (or (or $has_logo .Site.Params.footer.has_primary_nav) .Site.Params.footer.has_secondary_nav) .Site.Params.footer.has_tertiary_nav }}
-	<div class="site-footer__nav py-5 py-md-6">
+	<div class="site-footer__nav">
 		<div class="container">
 			<div class="grid{{ if eq $has_logo false }} justify-md-center{{ end }}">
 				{{ if $has_logo }}
