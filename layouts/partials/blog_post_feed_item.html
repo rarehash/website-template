@@ -62,7 +62,8 @@
 				{{ end }}
 				{{ if and $blog_feed_section.show_author $post.Params.author }}
 					{{ $include_dict := dict "author" $post.Params.author "container_class" "item__byline" "avatar_size" "small" }}
-						{{ end }}
+					{{ partial "blog_post_author.html" $include_dict }}
+				{{ end }}
 			</div>
 		</div>
 	</div>
