@@ -5,8 +5,8 @@ sections:
     title: Decentralized
     subtitle: 
     content: >-
-      QmbUSy8HCn8J4TMDRRdxCbK2uCCtk
-      QyZtY6XYv3y7kLgDC
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
