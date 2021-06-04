@@ -5,7 +5,7 @@ sections:
     title: Decentralized
     subtitle: 
     content: >-
-      QmbUSy8HCn8J4TMDRRdxCbK2uCCtkQyZtY6XYv3y7kLgDC
+      QmbUSy8HCn8J4TMDRRdxCbK2uCCtkQyZtY 6XYv3y7kLgDC
     actions:
       - label: Try Free
         url: /pricing
