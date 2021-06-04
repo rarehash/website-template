@@ -42,7 +42,10 @@
 						{{ $include_dict := dict "categories" $post.Params.categories "container_class" "item__cat" }}
 						{{ partial "blog_post_categories.html" $include_dict }}
 						{{ if $blog_feed_section.show_date }}
-                        
+                        {{ if and $blog_feed_section.show_author $post.Params.author }}
+					{{ $include_dict := dict "author" $post.Params.author "container_class" "item__byline" "avatar_size" "small" }}
+					{{ partial "blog_post_author.html" $include_dict }}
+				{{ end }}
 							<span class="item__meta-sep"> &middot; </span>
 						{{ end }}
 					{{ end }}
