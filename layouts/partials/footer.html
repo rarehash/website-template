@@ -12,34 +12,6 @@
 {{ end }}
 
 <footer class="site-footer">
-<section class="section has-border bg-none pt-6 pb-6">
-	<div class="container container--medium mb-3 text-center">
-		<h2 class="section__title mt-0">Subscribe to our newsletter.</h2>
-	</div>
-	<div class="container container--medium">
-		<div class="section__content grid">
-			
-			<div class="section__form my-2 cell-12">
-				<form name="subscribeForm" id="subscribeForm" action="/thank-you" method="POST" data-netlify="true" data-netlify-honeypot="subscribeForm-bot-field" class="form-inline">
-					<div class="sr-only">
-						<label id="subscribeForm-honeypot-label" for="subscribeForm-honeypot">Don't fill this out if you're human:</label>
-						<input aria-labelledby="subscribeForm-honeypot-label" id="subscribeForm-honeypot" name="subscribeForm-bot-field">
-					</div>
-					<input aria-labelledby="subscribeForm-honeypot-label" type="hidden" name="form-name" value="subscribeForm">
-					<div class="form-content flex flex-column flex-xs-row">
-							<div class="form-group mb-1 mb-xs-0 flex-auto">								
-		<label id="email-label" for="email">Email</label>
-	<input id="email" type="email" name="email" aria-labelledby="email-label" placeholder="radioactivedays@gmail.com" required="">
-							</div>
-						<div class="form-submit mx-auto mr-xs-0 ml-xs-1">
-							<button type="submit" class="btn btn--primary">Subscribe</button>
-						</div>
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-</section>
 	{{ if or (or (or $has_logo .Site.Params.footer.has_primary_nav) .Site.Params.footer.has_secondary_nav) .Site.Params.footer.has_tertiary_nav }}
 	<div class="site-footer__nav">
 		<div class="container">
