@@ -17,7 +17,7 @@
 		<div class="container">
 			<div class="grid{{ if eq $has_logo false }} justify-md-center{{ end }}">
 				{{ if $has_logo }}
-				<a class="site-footer__logo cell-12 cell-md-5 my-4" href="{{ "/" | relURL }}">
+				<a class="site-footer__logo cell-12 cell-md-3 my-4" href="{{ "/" | relURL }}">
 					<img src="{{ $.Site.Params.footer.logo | relURL }}" alt="{{ $.Site.Params.header.logo_alt }}" />
 				</a>
 				{{ end }}
