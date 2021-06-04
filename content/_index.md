@@ -310,6 +310,26 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+  - type: form_section
+    title: Subscribe to our newsletter.
+    title_align: center
+    content: 
+    content_align: center
+    form_position: bottom
+    form_layout: inline
+    form_id: subscribeForm
+    form_action: /thank-you
+    form_fields:
+      - input_type: email
+        name: email
+        label: Email
+        default_value: radioactivedays@gmail.com
+        is_required: true
+    submit_label: Subscribe
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: none
 seo:
   title: Rarehash
   description: Busca e intercambia archivos descentralizados peer-to-peer.
