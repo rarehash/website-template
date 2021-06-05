@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Decentralized
-    subtitle: 
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    subtitle: null
+    content: >
+      A world without restrictions, no limits, no rare characters. Search and
+      share peer-to-peer files.
     actions:
       - label: Try Free
         url: /pricing
@@ -281,7 +281,7 @@ sections:
   - type: form_section
     title: Subscribe to our newsletter.
     title_align: center
-    content: 
+    content: null
     content_align: center
     form_position: bottom
     form_layout: inline
