@@ -115,7 +115,7 @@
 	}
 }
 
-@include media-breakpoint-up(sm) {
+@include media-breakpoint-up(md) {
 	.cta__actions {
 		&.justify-md-center {
 			.btn {
