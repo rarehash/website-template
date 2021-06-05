@@ -8,7 +8,7 @@ sections:
       A world without restrictions, no limits, no rare characters. Search and
       share peer-to-peer files.
     actions:
-      - label: Try Free
+      - label: Try It
         url: /pricing
         style: primary
       - label: Learn More
