@@ -6,8 +6,7 @@ sections:
       ## Añade un nuevo hash
 
 
-      If you would like more information about Rarehash, please
-      contact us using the form below.
+      Llena el siguiente formulario correctamenta para publicar nuevos contenidos como documentos, .
     content_align: center
     form_position: center
     form_width: fifty
