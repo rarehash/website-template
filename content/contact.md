@@ -6,7 +6,7 @@ sections:
       ## Let's talk
 
 
-      If you would like more information about my services and pricing, please
+      If you would like more information about Rarehash, please
       contact me using the form below.
     content_align: left
     form_position: right
