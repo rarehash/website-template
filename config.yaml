@@ -69,7 +69,7 @@ params:
         url: /blog/category/news
         style: link
     has_tertiary_nav: true
-    tertiary_nav_title: Legal
+    tertiary_nav_title: Ayuda
     tertiary_nav_links:
       - label: Terms & Conditions
         url: /terms-conditions
