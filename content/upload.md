@@ -6,7 +6,7 @@ sections:
       ## Añade un nuevo hash
 
 
-      Llena el siguiente formulario correctamenta para publicar nuevos contenidos como documentos o archivos.
+      Llena el siguiente formulario correctamenta para publicar nuevos documentos o archivos.
     content_align: center
     form_position: center
     form_width: fifty
