@@ -53,10 +53,10 @@ params:
     has_primary_nav: true
     primary_nav_title: Rarehash
     primary_nav_links:
-      - label: Community
+      - label: Comunidad
         url: /community
         style: link
-      - label: Donate
+      - label: Donar
         url: /donate
         style: link
       - label: FAQ
