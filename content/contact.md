@@ -7,7 +7,7 @@ sections:
 
 
       If you would like more information about Rarehash, please
-      contact me using the form below.
+      contact us using the form below.
     content_align: left
     form_position: right
     form_width: fifty
