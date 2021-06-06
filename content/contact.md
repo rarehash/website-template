@@ -48,7 +48,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contacto
       keyName: property
     - name: 'og:description'
       value: This is the contact page
@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contacto
     - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
