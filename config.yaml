@@ -74,8 +74,8 @@ params:
       - label: Centro de ayuda
         url: /help
         style: link
-      - label: Privacy Policy
-        url: /privacy-policy
+      - label: Contacto
+        url: /contact
         style: link
     has_social: true
     social_links:
