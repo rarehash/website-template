@@ -16,7 +16,7 @@ sections:
     form_action: https://docs.google.com/forms/d/e/1FAIpQLSdM0oTc6D17jSEpRDz2t9yIUbz6zn1WI9eFvbxF2m3MWbSAQw/formResponse
     form_fields:
       - input_type: email
-        name: email
+        name: entry.498010727
         label: Email
         default_value: Your email address
         is_required: true
