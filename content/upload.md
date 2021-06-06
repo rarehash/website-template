@@ -18,7 +18,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: radioactivedays@gmail.com
+        default_value: Your email address
         is_required: true
       - input_type: textarea
         name: message
