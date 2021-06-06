@@ -51,7 +51,7 @@ params:
     logo: null
     logo_alt: null
     has_primary_nav: true
-    primary_nav_title: Company
+    primary_nav_title: Rarehash
     primary_nav_links:
       - label: About
         url: /about
