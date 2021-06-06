@@ -71,7 +71,7 @@ params:
     has_tertiary_nav: true
     tertiary_nav_title: Ayuda
     tertiary_nav_links:
-      - label: Terms & Conditions
+      - label: 
         url: /terms-conditions
         style: link
       - label: Privacy Policy
