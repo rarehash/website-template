@@ -51,7 +51,7 @@ seo:
       value: Contacto
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Rarehash, contact.
       keyName: property
     - name: 'twitter:card'
       value: summary
