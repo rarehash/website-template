@@ -22,6 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+
 seo:
   title: Rarehash
   description: Busca e intercambia archivos descentralizados peer-to-peer.
