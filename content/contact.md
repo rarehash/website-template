@@ -58,6 +58,6 @@ seo:
     - name: 'twitter:title'
       value: Contacto
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Rarehash, contact.
 layout: advanced
 ---
