@@ -42,7 +42,7 @@ sections:
     padding_bottom: medium
 seo:
   title: Contacto
-  description: This is the contact page
+  description: Rarehash, contact.
   extra:
     - name: 'og:type'
       value: website
