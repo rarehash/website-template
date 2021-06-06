@@ -1,16 +1,6 @@
 ---
-title: Contact
+title: Contacto
 sections:
-  - type: hero_section
-    title: Get in touch
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
-    align: center
-    padding_top: small
-    padding_bottom: small
-    has_border: true
-    background_color: none
   - type: form_section
     content: >-
       ## Let's talk
