@@ -17,8 +17,8 @@ params:
       - label: About
         url: /about
         style: link
-      - label: Submit
-        url: /submit
+      - label: Upload
+        url: /upload
         style: primary
     has_anncmnt: true
     anncmnt_content: >
