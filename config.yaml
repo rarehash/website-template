@@ -56,8 +56,8 @@ params:
       - label: Community
         url: /community
         style: link
-      - label: Style Guide
-        url: /style-guide
+      - label: Donate
+        url: /donate
         style: link
     has_secondary_nav: true
     secondary_nav_title: Blog
