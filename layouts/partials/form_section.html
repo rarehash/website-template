@@ -78,7 +78,7 @@
 			<div class="section__form my-2 cell-12{{ if and (and $is_horiz $has_text) (eq $form_width "fourty") }} cell-md-5{{ end }}{{ if and (and $is_horiz $has_text) (eq $form_width "fifty") }} cell-md-6{{ end }}{{ if and (and $is_horiz $has_text) (eq $form_width "sixty") }} cell-md-7{{ end }}{{ if or (eq $form_pos "top") (eq $form_pos "left") }} order-first{{ end }}">
 				<script type="text/javascript">var submitted=false;</script>
                 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-                onload="if(submitted) {window.location='/thankyou';}"></iframe>
+                onload="if(submitted) {window.location='/{{ $section.form_id }}';}"></iframe>
                 <form name="{{ $section.form_id }}" id="{{ $section.form_id }}"{{ if $section.form_action }} action="{{ $section.form_action }}"{{ end }} method="POST" target="hidden_iframe" onsubmit="submitted=true;" data-netlify="true" data-netlify-honeypot="{{ $section.form_id }}-bot-field" class="{{ if $form_is_inline }}form-inline{{ end }}{{ if $form_is_card }} card{{ end }}{{ if $form_is_card }} p-4{{ end }}{{ if $form_is_card }} p-sm-5{{ end }}">
 					<div class="sr-only">
 						<label id="{{ $section.form_id }}-honeypot-label" for="{{ $section.form_id }}-honeypot">Don't fill this out if you're human:</label>
