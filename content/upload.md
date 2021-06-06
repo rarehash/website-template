@@ -12,7 +12,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: prueba
+    form_id: 
     form_action: https://docs.google.com/forms/d/e/1FAIpQLSdM0oTc6D17jSEpRDz2t9yIUbz6zn1WI9eFvbxF2m3MWbSAQw/formResponse
     form_fields:
       - input_type: email
