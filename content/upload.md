@@ -3,7 +3,7 @@ title: Upload hash
 sections:
   - type: form_section
     content: >-
-      ## Let's talk
+      ## Añade un nuevo hash
 
 
       If you would like more information about Rarehash, please
