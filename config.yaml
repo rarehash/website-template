@@ -53,8 +53,8 @@ params:
     has_primary_nav: true
     primary_nav_title: Rarehash
     primary_nav_links:
-      - label: About
-        url: /about
+      - label: Community
+        url: /community
         style: link
       - label: Style Guide
         url: /style-guide
