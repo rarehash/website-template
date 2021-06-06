@@ -96,7 +96,7 @@
 						{{ end }}
 
 						<div class="form-submit{{ if eq $form_is_inline false }} mt-3{{ end }}{{ if eq $form_is_inline true }} mx-auto{{ end }}{{ if eq $form_is_inline true }} mr-xs-0{{ end }}{{ if eq $form_is_inline true }} ml-xs-1{{ end }}">
-							<button type="submit" class="btn btn--primary">{{ $section.submit_label }}</button>
+							<button type="submit" onclick="if(submitted) {disabled=true;}" class="btn btn--primary">{{ $section.submit_label }}</button>
 						</div>
 					</div>
 				</form>
